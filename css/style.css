@@ -1,90 +1,11 @@
-.row-header{
-    margin-bottom:1px auto;
-    padding:0px;
-    
-}
-
-.row-content {
-    margin:0px auto;
-    padding: 20px 0px 20px 0px;
-    border-bottom: 1px ridge;
-    min-height:300px;
-}
-
-.footer{
-    background-color: #D1C4E9;
-    margin:0px auto;
-    padding: 20px 0px 20px 0px;
-}
 .jumbotron {
-    padding:50px 30px 50px 30px;
+    padding:100px 70px 100px 70px;
     margin:0px auto;
-    background: #9575CD ;
+    background: #75cdc6 ;
     color:floralwhite;
 }
-
-address{
-    font-size:80%;
-    margin:0px;
-    color:#0f0f0f;
-}
-body{
-    padding:50px 0px 0px 0px;
-    z-index:0;
-}
-
-.navbar-dark {
-     background-color: #512DA8;
-}
-
-.button-col{
-    background-color: gold;
-    color:#0f0f0f;
-
-}
-
-.bagcol{
-    background-color: gold;
-}
-
-.lab1{
-    background-color: #512DA8;
-}
-
-.lab2{
-    background-color: #9575CD;
-    color: black;
-
-}
-.lab{
-    color: white;
-}
-.btt{
-    background-color: gray;
-}
-.act{
-    background-color: green;
-}
-.non{
-    background-color: red;
-}
-.carousel {
-    background:#512DA8;
-}
-
-.carousel-item {
-  height: 200px;
-}
-
-.carousel-item img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-height: 200px;
-}
-#carouselButton {
-    right:0px;
-    position: absolute;
-    bottom: 0px;
-    z-index: 1;
+.footer{
+    background-color: #96cbc7;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
 }
