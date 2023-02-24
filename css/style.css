@@ -1,6 +1,11 @@
 .jumbotron {
-    padding:50px 30px 50px 30px;
+    padding:100px 70px 100px 70px;
     margin:0px auto;
     background: #75cdc6 ;
     color:floralwhite;
+}
+.footer{
+    background-color: #96cbc7;
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
 }
